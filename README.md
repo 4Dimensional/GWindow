@@ -16,3 +16,7 @@ your system.
 > Custom fill styles.
 
 > Cool shapes.
+# Documentation
+Just read the graphics.hpp and graphics.cpp file
+
+to understand all the features :-)
