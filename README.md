@@ -20,3 +20,7 @@ your system.
 Just read the graphics.hpp and graphics.cpp file
 
 to understand all the features :-)
+# What will I do with this?
+I'm working on making a cool card video game
+
+and i'm using this library for graphics.
